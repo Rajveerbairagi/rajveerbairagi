@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **exciting projects in C++, SQL & Node.js**  
 - 🌱 I’m currently learning **backend development & system design**  
 - 👯 I’m looking to collaborate on **open-source & full-stack projects**  
-- 📫 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=About.me&logoColor=white)](https://portfolio-rajveer-bairagis-projects.vercel.app/)
+- 📫 Check out my portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=About.me&logoColor=white)](https://rajveerbairagi.me)
 - ⚡ Fun fact: **I love problem-solving & competitive programming**  
 
 ---
