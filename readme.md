@@ -13,7 +13,7 @@
 
 <br>
 
-check out my latest app: [Supercharge](https://github.com/Rajveerbairagi/CarbonSetuX) ![](hot.gif)
+check out my latest app: [CarbonSetuX](https://github.com/Rajveerbairagi/CarbonSetuX) ![](hot.gif)
 
 and my [latest YT Video](https://youtu.be/KQtd9tFQNuM?si=r8KZPC1eus879cA1) ![](hot.gif)
 
