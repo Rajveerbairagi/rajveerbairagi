@@ -71,17 +71,6 @@ and my [latest YT Video](https://youtu.be/KQtd9tFQNuM?si=r8KZPC1eus879cA1) ![](h
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajveerbairagi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajveerbairagi&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 
 <!-- Connect With Me -->
 ## 🔗 Connect with Me  
